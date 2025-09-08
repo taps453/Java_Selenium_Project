@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-09T00:29:40 IST" name="Default suite" finished-at="2025-09-09T00:31:45 IST" duration-ms="125248">
+    <groups>
+    </groups>
+    <test started-at="2025-09-09T00:29:40 IST" name="Default test" finished-at="2025-09-09T00:31:45 IST" duration-ms="125248">
+      <class name="tests.testContactPage">
+        <test-method is-config="true" signature="driverSetUp()[pri:0, instance:tests.testContactPage@2c532cd8]" started-at="2025-09-09T00:29:40 IST" name="driverSetUp" finished-at="2025-09-09T00:29:50 IST" duration-ms="9772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetUp -->
+        <test-method signature="contactPage()[pri:0, instance:tests.testContactPage@2c532cd8]" started-at="2025-09-09T00:29:50 IST" name="contactPage" finished-at="2025-09-09T00:31:45 IST" duration-ms="114998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactPage -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.testContactPage@2c532cd8]" started-at="2025-09-09T00:31:45 IST" name="closeBrowser" finished-at="2025-09-09T00:31:45 IST" duration-ms="315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- tests.testContactPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

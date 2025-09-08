@@ -1,0 +1,5 @@
+tests\testContactPage.class
+utils\common.class
+pages\contactPageForm.class
+utils\configReader.class
+driverSetup\basesetup.class
